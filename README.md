@@ -14,6 +14,7 @@ Nice question, there's 3 reason why I repo this mod:
 
 ## How to install this mod?
 For 64-bit users: Go to C:\Program Files (x86)\Steam\steamapps\common\Progressbar 95\Resources\art\skins\!MOD
+
 For 32-bit users: Go to C:\Program Files\Steam\steamapps\common\Progressbar 95\Resources\art\skins\!MOD
 
 Make sure that it dosen't overlap any installed Systems, if so extract them to another folder rename them and put them. If not directly extract the folders there
