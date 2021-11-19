@@ -21,6 +21,6 @@ For 32-bit users: Go to
 
 Make sure that it dosen't overlap any installed Systems, if so extract them to another folder rename them and put them. If not directly extract the folders there
 
-If you want to update without losing your progress, just change your mod folder name into the old mod folder name that you already have it, and delete the old version
+If you want to update without losing your progress, just rename your new mod folder into the old mod folder name that you already have it, and delete the old version
 
-Finnaly Open Progressbar95 and select "Mods"
+Finally, open Progressbar95 and select "Mods"
