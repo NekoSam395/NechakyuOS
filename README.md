@@ -23,4 +23,4 @@ Make sure that it dosen't overlap any installed Systems, if so extract them to a
 
 If you want to update without losing your progress, just rename your new mod folder into the old mod folder name that you already have it, and delete the old version
 
-Finally, open Progressbar95 and select "Mods"
+Finally, open Progressbar95, select "Mods", and select 'KellyOS'
