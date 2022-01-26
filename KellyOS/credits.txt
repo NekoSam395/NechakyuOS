@@ -1,15 +1,19 @@
-KellyOS, a cute mod by SamCool939
+KellyOS, a cute Progressbar95 mod by NekoSam395.
 
 Special Thanks:
+
 - Icoeye, for this good game
 
-- PB95 Fan Discord Server and PBMOD Server members
+- Lunime, for Gacha Life and Gacha Club game
 
-- Nami, for KittyOS theme in PreAlpha 3 and 3.1
+- PB95 Fan Discord Server, PBMOD Server, and NEKOverse server members
 
-- Setap, for providing me screenshoots of this mod gameplay
+- Rei, for KittyOS theme in PreAlpha 3 and 3.1
 
-Honorable mention:
-- My real life friend that become my inspiartion of this mod, Kelly
+- Setap, for providing me screenshoots of this mod gameplay and becoming my mod mentor
+
+- My real life friend that become my inspiration of this mod, Kelly
 
 - YOU, for downloading and playing this mod
+
+- Other people that I can't name one by one, but has contributing on this project on any values such as art reviewing, mod testing, and bug tracking
