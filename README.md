@@ -1,10 +1,11 @@
 # KellyOS
 A cute mod for Progressbar95
 
-## Who ACTUALLY is Kelly?
-![Kelly-chan](https://cdn.discordapp.com/attachments/811803235617996803/889361888411009084/a1.png)
+## About this mod
+[TBA]
 
-This is Kelly, our mascot in this mod.
+## Galleries
+[TBA]
 
 ## Hey Sam, why did you put this mod to GitHub?
 Nice question, there's 3 reason why I repo this mod:
@@ -24,3 +25,8 @@ Make sure that it dosen't overlap any installed Systems, if so extract them to a
 If you want to update without losing your progress, just rename your new mod folder into the old mod folder name that you already have it, and delete the old version
 
 Finally, open Progressbar95, select "Mods", and select 'KellyOS'
+
+## Who ACTUALLY is Kelly?
+![Kelly-chan](https://cdn.discordapp.com/attachments/811803235617996803/889361888411009084/a1.png)
+
+This is Kelly, our mascot in this mod.
