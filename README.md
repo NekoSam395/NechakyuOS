@@ -91,6 +91,6 @@ If you want to update without losing your progress, just rename your new mod fol
 Finally, open Progressbar95, select "Mods", and select 'KellyOS'
 
 ## Who ACTUALLY is Kelly?
-![Kelly-chan](https://cdn.discordapp.com/attachments/811803235617996803/889361888411009084/a1.png)
+![Kelly-chan](https://cdn.discordapp.com/attachments/889898536550940702/960551292852400158/unknown.png)
 
 This is Kelly-chan, our mascot in this mod.
