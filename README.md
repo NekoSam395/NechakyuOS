@@ -1,10 +1,13 @@
 # KellyOS
 A cute mod for Progressbar95
 
+## Server version
+[Here](https://github.com/NekoSam395/KellyOS/tree/kellyos_server)
+
 ## About this mod
 This project was made by me (NekoSam395) since September 2021, as my most prestigious project that I ever made, for the real Kelly that I loved so much.
 
-## Galleries
+## Gallery
 ![boot](https://cdn.discordapp.com/attachments/887320454170304552/949216705102626836/unknown.png)
 > Boot Screen
 
