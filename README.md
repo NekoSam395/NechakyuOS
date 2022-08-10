@@ -7,7 +7,7 @@ A cute mod for Progressbar95
 ## About this mod
 This project was made by me (NekoSam395) since September 2021, as my most prestigious project that I ever made, for the real Kelly that I loved so much.
 
-## Gallery
+## Gallery (1.0.x release)
 ![boot](https://cdn.discordapp.com/attachments/887320454170304552/949216705102626836/unknown.png)
 > Boot Screen
 
@@ -96,4 +96,4 @@ Finally, open Progressbar95, select "Mods", and select 'KellyOS'
 ## Who ACTUALLY is Kelly?
 ![Kelly-chan](https://cdn.discordapp.com/attachments/889898536550940702/960551292852400158/unknown.png)
 
-This is Kelly-chan, our mascot in this mod.
+This is Kelly-chan, the very cute mascot of this mod.
