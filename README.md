@@ -1,4 +1,4 @@
-# Neko-chan OS
+# NekchakyuOS
 A cute mod for Progressbar95
 
-More info: https://nekosam395.github.io/ppp.kellyos
+More info: https://nekosam395.my.id/nechakyuos
