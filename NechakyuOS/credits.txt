@@ -1,4 +1,4 @@
-KellyOS, a cute Progressbar95 mod by NekoSam395.
+NechakyuOS, a cute and modern Progressbar95 mod, by NekoSam395.
 
 Special Thanks:
 
@@ -6,23 +6,12 @@ Special Thanks:
 
 - Lunime, for Gacha Life and Gacha Club game
 
-- Universal Studios (Minions) for Banana theme. All rights deserved.
-
-- My country for Independence theme.
-
 - Progressbar95 +Plus Server!, ProgressMOD Server, and NEKOverse Server members
 
 - Rei, for KittyOS theme in PreAlpha 3 and 3.1
 
 - Setap, for providing me screenshoots of this mod gameplay and becoming my mod mentor
 
-- My real life friend that become my inspiration of this mod, Kelly
-
 - YOU, for downloading and playing this mod
 
 - Other people that I can't name one by one, but has contributing on this project on any values such as art reviewing, mod testing, and bug tracking
-
-
-
-'I treated KellyOS as my most precious gift, for the real Kelly that I loved so much.'
-- NekoSam395, 2022
