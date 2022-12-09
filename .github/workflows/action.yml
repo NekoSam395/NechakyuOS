@@ -12,3 +12,4 @@ jobs:
         filename: 'nckos_debug.zip'
         path: './Art'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+        artifacts: "nckos_debug.zip"
