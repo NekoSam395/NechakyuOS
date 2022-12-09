@@ -1,0 +1,15 @@
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@main
+      with:
+        type: 'zip'
+        filename: 'nckos_debug.zip'
+        directory: '/art
+        path: '/art'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
