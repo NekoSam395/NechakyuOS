@@ -10,6 +10,6 @@ jobs:
       with:
         type: 'zip'
         filename: 'nckos_debug.zip'
-        directory: '/art'
-        path: '/art'
+        directory: './Art'
+        path: './Art'
         exclusions: '*.git* /*node_modules/* .editorconfig'
