@@ -1,6 +1,6 @@
 name: Zip Files
 
-on: [push]
+on:
   release: 
     types: [published]
 
