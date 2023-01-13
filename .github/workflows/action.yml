@@ -1,20 +1,12 @@
-name: Zip Files
-
+name: MasterDeployCI
 on:
-  release: 
-    types: [published]
-
+  push:
+    branches:
+      - kellyos_main
 jobs:
-  zip-files:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: vimtor/action-zip@v1
-        with:
-          files: dist/ manifest.json
-          dest: nckos_debug.zip
-          
-      - uses: actions/upload-artifact@v1
-        with:
-          name: my-artifact
-          path: ${{ github.workspace }}/nckos_debug.zip
+    - uses: actions/checkout@v1
+    - name: Zip Folder
+      run: zip -r nckos_debug.zip . -x ".git/*" ".github/*" ".md" "LICENSE"
